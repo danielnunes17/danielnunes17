@@ -48,7 +48,7 @@ discos, cinema, rádio, linha de show, podcast, transmissão esportiva, eventos 
 
 Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da minha zona de conforto (mais vez rs). 
 
-Como atuo no hub de tecnologia e estratégia por muitos anos, optei por ativar o usuário de tecnologia para me tornar o desenvolvedor.
+Como atuo no hub de tecnologia e estratégia por muitos anos, optei por não ser só usuário de tecnologia mas também me tornar desenvolvedor.
 
 ### Quais as trilhas já fiz até aqui
 
