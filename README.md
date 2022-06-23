@@ -1,6 +1,6 @@
 ### Olá! Eu sou Daniel Nunes
 
-Olá, sou Daniel Nunes, pai do Danilo (9) e do Henrique (7), casado com a Nathália a 17 anos.
+pai do Danilo (9) e do Henrique (7), casado com a Nathália a 17 anos.
 
 Nasci em São Paulo, mas sou naturalizado mineiro, já morei em muitos lugares (São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa).
 
