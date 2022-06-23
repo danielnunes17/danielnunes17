@@ -2,7 +2,7 @@
  
 Sou pai do Danilo (9) e do Henrique (7), casado com Nathália a 17 anos.
 
-Nasci em São Paulo, mas naturalizado mineiro, já fuimorador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
+Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
 Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
