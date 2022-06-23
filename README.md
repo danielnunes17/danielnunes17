@@ -1,13 +1,14 @@
 ### Olá! Eu sou Daniel Nunes
+ 
+Sou pai do Danilo (9) e do Henrique (7), casado com Nathália a 17 anos.
 
-pai do Danilo (9) e do Henrique (7), casado com a Nathália a 17 anos.
+Nasci em São Paulo, mas naturalizado mineiro, já fuimorador de muitos lugares: 
 
-Nasci em São Paulo, mas sou naturalizado mineiro, já morei em muitos lugares (São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa).
+São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
-Sou músico, Cruzeirense e um dos melhores clientes da Spotfy e Netflix.
+Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
-Estou cursando bacharel em Sistemas de Informação minha segunda graduação em pleno gás para uma transição de carreira!
-
+Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse momento estou em transição de carreira e animado pra isso!
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielnunes17@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnunessound/)
@@ -40,12 +41,25 @@ Estou cursando bacharel em Sistemas de Informação minha segunda graduação em
 
 ## Em trasição de carreira aos 39?
 
-Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como enhegeiro de gravação, mixagem, sound design e sonoplasta fazendo todo tipo de produto como:  gravando e mixando discos, cinema, rádio, linha de show, podcast, transmissão de eventos esportivos, musicais, jornalísticos e publicidade.
+Dediquei os últimos 15 anos a Produção Musical e Audiovisual, 
+
+trabalhando como engenheiro de gravação, mixagem, 
+
+design de som e sonoplasta exercendo todo tipo de produto: 
+
+discos, cinema, rádio, linha de show, podcast, transmissão de esportivos, 
+
+eventos musicais, jornalísticos e publicidade.
 
 ### O que me fez optar por mudar de carreira?
 
-Resolvi migrar de carreira quando percebi que fiquei estagnado e a única forma de crescer seria saindo da minha zona de conforto (mais uma vez rs).
-Como trabalho no hub de tecnologia e estratégia a tantos anos, optei por deixar de ser usuário de tecnologia para me tornar desenvolvedor.
+Decidi migrar de carreira quando percebi que estava estagnado e avaliei 
+
+que a única forma de crescer seria saindo da minha zona de conforto (mais vez rs). 
+
+Como atuo no hub de tecnologia e estratégia por muitos anos, 
+
+optei por ativar o usuário de tecnologia para me tornar o desenvolvedor.
 
 ### Quais as trilhas já fiz até aqui
 
