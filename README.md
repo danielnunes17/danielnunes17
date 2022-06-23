@@ -46,7 +46,7 @@ discos, cinema, rádio, linha de show, podcast, transmissão esportiva, eventos 
 
 ### O que me fez optar por mudar de carreira?
 
-Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da minha zona de conforto (mais vez rs). 
+Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da minha zona de conforto (mais uma vez rs). 
 
 Como atuo no hub de tecnologia e estratégia por muitos anos, optei por não ser só usuário de tecnologia mas também me tornar desenvolvedor.
 
