@@ -40,7 +40,7 @@ Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse
 
 ## Em trasição de carreira aos 39?
 
-Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta exercendo todo tipo de produto: 
+Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em todo tipo de produto: 
 
 discos, cinema, rádio, linha de show, podcast, transmissão de esportivos, eventos musicais, jornalísticos e publicidade.
 
