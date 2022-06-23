@@ -9,6 +9,8 @@ São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
 Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse momento estou em transição de carreira e animado pra isso!
+
+
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielnunes17@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnunessound/)
