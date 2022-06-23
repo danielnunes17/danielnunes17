@@ -2,9 +2,7 @@
  
 Sou pai do Danilo (9) e do Henrique (7), casado com Nathália a 17 anos.
 
-Nasci em São Paulo, mas naturalizado mineiro, já fuimorador de muitos lugares: 
-
-São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
+Nasci em São Paulo, mas naturalizado mineiro, já fuimorador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
 Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
@@ -43,25 +41,15 @@ Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse
 
 ## Em trasição de carreira aos 39?
 
-Dediquei os últimos 15 anos a Produção Musical e Audiovisual, 
+Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta exercendo todo tipo de produto: 
 
-trabalhando como engenheiro de gravação, mixagem, 
-
-design de som e sonoplasta exercendo todo tipo de produto: 
-
-discos, cinema, rádio, linha de show, podcast, transmissão de esportivos, 
-
-eventos musicais, jornalísticos e publicidade.
+discos, cinema, rádio, linha de show, podcast, transmissão de esportivos, eventos musicais, jornalísticos e publicidade.
 
 ### O que me fez optar por mudar de carreira?
 
-Decidi migrar de carreira quando percebi que estava estagnado e avaliei 
+Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da minha zona de conforto (mais vez rs). 
 
-que a única forma de crescer seria saindo da minha zona de conforto (mais vez rs). 
-
-Como atuo no hub de tecnologia e estratégia por muitos anos, 
-
-optei por ativar o usuário de tecnologia para me tornar o desenvolvedor.
+Como atuo no hub de tecnologia e estratégia por muitos anos, optei por ativar o usuário de tecnologia para me tornar o desenvolvedor.
 
 ### Quais as trilhas já fiz até aqui
 
