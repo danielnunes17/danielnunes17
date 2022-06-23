@@ -40,7 +40,7 @@ Estou cursando bacharel em Sistemas de Informação minha segunda graduação em
 
 ## Em trasição de carreira aos 39?
 
-Me dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como enhegeiro de gravação, mixagem, sound design e sonoplasta fazendo todo tipo de produto como:  gravando e mixando discos, cinema, rádio, linha de show, podcast, transmissão de eventos esportivos, musicais, jornalísticos e publicidade.
+Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como enhegeiro de gravação, mixagem, sound design e sonoplasta fazendo todo tipo de produto como:  gravando e mixando discos, cinema, rádio, linha de show, podcast, transmissão de eventos esportivos, musicais, jornalísticos e publicidade.
 
 ### O que me fez optar por mudar de carreira?
 
