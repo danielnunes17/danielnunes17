@@ -40,17 +40,17 @@ Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse
 
 ## Em trasição de carreira aos 39?
 
-Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em todo tipo de produto: 
+Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em vários tipos de produtos: 
 
 discos, cinema, rádio, linha de show, podcast, transmissão esportiva, eventos musicais, jornalísticos e publicidade.
 
-### O que me fez optar por mudar de carreira?
+### Porque mudar de carreira?
 
-Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da minha zona de conforto (mais uma vez rs). 
+Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da zona de conforto (mais uma vez rs). 
 
-Como atuo no hub de tecnologia e estratégia por muitos anos, optei por não ser só usuário de tecnologia mas também me tornar desenvolvedor.
+Como atuo no hub de tecnologia e estratégia há muitos anos, optei pela área de desenvolvimento.
 
-### Quais as trilhas já fiz até aqui
+### Trilhas percorridas até o momento 
 
 ### Bootcamps:
 Fullstack Developer Tech Academy (150 horas) - .StartSe 
