@@ -8,9 +8,7 @@ Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
 Curso bacharel em Sistemas de Informação, essa é minha 2° graduação.
 
-No momento sou estagiário analista desenvolvedor de sistemas na DTI digital,
-
-essa empresa maravilhosa que abriu suas portas e acreditou em mim.
+No momento sou estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa maravilhosa que abriu suas portas e acreditou em mim.
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
