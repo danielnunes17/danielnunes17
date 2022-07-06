@@ -6,7 +6,11 @@ Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares
 
 Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
 
-Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse momento estou em transição de carreira e animado pra isso!
+Curso bacharel em Sistemas de Informação, essa é minha 2° graduação.
+
+No momento sou estagiário analista desenvolvedor de sistemas na DTI digital,
+
+essa empresa maravilhosa que abriu suas portas e acreditou em mim.
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
@@ -50,9 +54,6 @@ Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a ú
 
 Como atuo no hub de tecnologia e estratégia há muitos anos, optei pela área de desenvolvimento.
 
-No momento sou estagiário de nível superior em Desenvolvimento de software na DTI digital,
-
-essa empresa maravilhosa que abriu suas portas e acreditou em mim.
 
 ### Trilhas percorridas até o momento 
 
