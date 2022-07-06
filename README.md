@@ -38,7 +38,7 @@ Curso bacharel em Sistemas de Informação, essa é minha 2° graduação, nesse
 <img align = "center" alt="VSCode" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-## Em trasição de carreira aos 39?
+## Estagiário aos 39?
 
 Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em vários tipos de produtos: 
 
@@ -50,12 +50,14 @@ Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a ú
 
 Como atuo no hub de tecnologia e estratégia há muitos anos, optei pela área de desenvolvimento.
 
+No momento sou estagiário de nível superior em Desenvolvimento de software na DTI digital,
+
+essa empresa maravilhosa que abriu suas portas e acreditou em mim.
+
 ### Trilhas percorridas até o momento 
 
 ### Bootcamps:
 Fullstack Developer Tech Academy (150 horas) - .StartSe 
-
-Santander Fullstack Developer (120 horas) - Digital Innovation One
 
 GFT Start #4 .NET (58 horas) - Digital Innovation One
 
