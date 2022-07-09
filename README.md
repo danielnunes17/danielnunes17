@@ -4,11 +4,11 @@ Sou pai do Danilo (9) e do Henrique (7), casado com Nathália há17 anos.
 
 Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
-Músico, cruzeirense e um dos melhores clientes do Spotfy e Netflix.
+Músico, produtor musical, cruzeirense e especialista em stickers para watsapp.
 
-Curso bacharel em Sistemas de Informação, essa é minha 2° graduação.
+Estudante de bacharel em Sistemas de Informação, essa é minha 2° graduação.
 
-No momento sou estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa maravilhosa que abriu suas portas e acreditou em mim.
+Estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa maravilhosa que abriu suas portas e acreditou em mim.
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
