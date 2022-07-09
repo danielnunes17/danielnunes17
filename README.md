@@ -50,13 +50,13 @@ discos, cinema, rádio, linha de show, podcast, transmissão esportiva, eventos 
 
 Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da zona de conforto (mais uma vez rs). 
 
-Como atuo no hub de tecnologia e estratégia há muitos anos, optei pela área de desenvolvimento.
+A frase de Roy Smith define bem minha transição de carreira: "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade".
 
 
 ### Trilhas percorridas até o momento 
 
 ### Bootcamps:
-Fullstack Developer Tech Academy (150 horas) - .StartSe 
+Fullstack Developer Tech Academy - HTML5, CSS, JavaScript, NodeJs e SLQ (150 horas) - .StartSe 
 
 GFT Start #4 .NET (58 horas) - Digital Innovation One
 
