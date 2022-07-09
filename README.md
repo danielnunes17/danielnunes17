@@ -4,7 +4,7 @@ Sou pai do Danilo (9) e do Henrique (7), casado com Nathália há17 anos.
 
 Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
-Músico, produtor musical, cruzeirense e especialista em stickers para watsapp.
+Músico, produtor musical, cruzeirense e especialista em stickers para WhatsApp.
 
 Estudante de bacharel em Sistemas de Informação, essa é minha 2° graduação.
 
