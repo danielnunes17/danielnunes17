@@ -1,12 +1,12 @@
 ### Olá! Eu sou Daniel Nunes
  
-Tenho 02 filhos e sou casado há17 anos.
+Tenho 02 filhos e sou casado há 18 anos.
 
 Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
 
 Músico, produtor musical, cruzeirense e especialista em stickers para WhatsApp.
 
-Estudante de bacharel em Sistemas de Informação, essa é minha 2° graduação.
+Encarando o 5° período da minha segunda graduação em bacharel em Sistemas de Informação.
 
 Estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa maravilhosa que abriu suas portas e acreditou em mim.
 
@@ -40,7 +40,7 @@ Estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa mara
 <img align = "center" alt="VSCode" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-## Estagiário aos 39?
+## Estagiário aos 40?
 
 Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em vários tipos de produtos: 
 
@@ -64,7 +64,7 @@ LocalizaLabs .NET Developer #2 (78 horas) - Digital Innovation One
 
 Dio Campus Expert (30 horas) - Digital Innovation One
 
-### Trilha ALura C#/.NET (80 horas)
+### Trilha ALura C#/.NET (100 horas)
 HTTP: ENTENDENDO A WEB
 
 API REST COM .NET 5: OPERAÇÕES ESSENCIAIS COM VERBOS HTTP
@@ -76,6 +76,10 @@ ENTENDENDO EXCEÇÕES
 ENTENDENDO HERANÇA E INTERFACE
 
 INTRODUÇÃO À ORIENTAÇÃO A OBJETOS
+
+TESTES EM .NET: TESTANDO SOFTWARE
+
+SQL Server: SQL com Microsoft SQL Server
 
 ### Udemy
 C# Curso Completo: Do Básico ao Avançado (60 horas)
