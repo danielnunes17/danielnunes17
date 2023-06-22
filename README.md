@@ -2,7 +2,7 @@
  
 Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco de São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense apaixonado e especialista em criar stickers para WhatsApp.
 
-Depois de me dedicar aos últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
+Depois de me dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
 Como desenvolvedor back-end, tenho 1 ano de experiência e estou sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
 
