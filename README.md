@@ -50,7 +50,7 @@ LocalizaLabs .NET Developer #2 (78 horas) - Digital Innovation One
 
 Dio Campus Expert (30 horas) - Digital Innovation One
 
-### Trilha ALura C#/.NET (100 horas)
+### Trilha ALura C#/.NET 
 HTTP: ENTENDENDO A WEB
 
 API REST COM .NET 5: OPERAÇÕES ESSENCIAIS COM VERBOS HTTP
@@ -68,9 +68,9 @@ TESTES EM .NET: TESTANDO SOFTWARE
 SQL Server: SQL com Microsoft SQL Server
 
 ### Udemy
-C# Curso Completo: Do Básico ao Avançado (60 horas)
+C# Curso Completo: Do Básico ao Avançado 
 
-Git Curso Compelto: Do Básico ao Avançado (30 horas)
+Git Curso Compelto: Do Básico ao Avançado 
 
 
 
