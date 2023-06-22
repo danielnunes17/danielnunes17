@@ -1,12 +1,13 @@
 ### Olá! Eu sou Daniel Nunes
  
-Sou paulistano de coração, mas também trago comigo um pouco da energia de lugares como São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense apaixonado e especialista em criar stickers para WhatsApp.
+Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco da energia de lugares como São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense apaixonado e especialista em criar stickers para WhatsApp.
 
 Depois de me dedicar aos últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
 Como desenvolvedor back-end, tenho 1 ano de experiência e estou sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
+
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
