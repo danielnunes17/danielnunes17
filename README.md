@@ -6,9 +6,9 @@ Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares
 
 Músico, produtor musical, cruzeirense e especialista em stickers para WhatsApp.
 
-Encarando o 5° período da minha segunda graduação em bacharel em Sistemas de Informação.
+Encarando o 6° período da minha segunda graduação em bacharel em Sistemas de Informação.
 
-Estagiário analista desenvolvedor de sistemas na DTI digital, essa empresa maravilhosa que abriu suas portas e acreditou em mim.
+Desenvolvedor back end.
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
