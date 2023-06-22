@@ -1,14 +1,13 @@
 ### Olá! Eu sou Daniel Nunes
  
-Tenho 02 filhos e sou casado há 18 anos.
+Paulistano naturalizado mineiro, mas trago comigo um pouquinho de muitos lugares como São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
+Cruzeirense e especialista em stickers para WhatsApp.
 
-Nasci em São Paulo, mas naturalizado mineiro, já fui morador de muitos lugares: São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa.
+Após ter dedicado os últimos 15 anos a produção musical e audiovisual, decidi migrar de carreira aos 38 quando percebi que estava estagnado. Estou encarando o 6° período em bacharel em Sistemas de Informação.
 
-Músico, produtor musical, cruzeirense e especialista em stickers para WhatsApp.
+Desenvolvedor back-end com 1 ano de experiencia, ávido por crescer e gerar valor para melhorar a vida das pessoas.
 
-Encarando o 6° período da minha segunda graduação em bacharel em Sistemas de Informação.
-
-Desenvolvedor back end.
+"A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danielnunes_83384/daniel-nunes-66390889c43)
@@ -39,19 +38,6 @@ Desenvolvedor back end.
 <img align = "center" alt="Visual Studio" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align = "center" alt="VSCode" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
-## Estagiário aos 40?
-
-Dediquei os últimos 15 anos a Produção Musical e Audiovisual, trabalhando como engenheiro de gravação, mixagem, design de som e sonoplasta atuando em vários tipos de produtos: 
-
-discos, cinema, rádio, linha de show, podcast, transmissão esportiva, eventos musicais, jornalísticos e publicidade.
-
-### Porque mudar de carreira?
-
-Decidi migrar de carreira quando percebi que estava estagnado e avaliei que a única forma de crescer seria saindo da zona de conforto (mais uma vez rs). 
-
-A frase de Roy Smith define bem minha transição de carreira: "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade".
-
 
 ### Trilhas percorridas até o momento 
 
