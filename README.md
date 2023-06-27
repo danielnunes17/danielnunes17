@@ -4,7 +4,7 @@ Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco d
 
 Depois de me dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
-Tenho 1 ano como desenvolvedor back-end em .NET, nesse momento me especializando em NodeJS e Low-Code Outsystems sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
+Tenho 1 ano como desenvolvedor back-end em .NET, nesse momento me especializando em GoLang sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
 
