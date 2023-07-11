@@ -2,9 +2,9 @@
  
 Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco de São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense apaixonado e especialista em criar stickers para WhatsApp.
 
-Depois de me dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
+Depois de dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
-Tenho 1 ano como desenvolvedor back-end em .NET, nesse momento me especializando em GoLang sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
+Tenho 1 ano de experiência como desenvolvedor back-end em .NET/C#, nesse momento me especializando em GoLang sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
 
@@ -17,8 +17,6 @@ Tenho 1 ano como desenvolvedor back-end em .NET, nesse momento me especializando
 ## Skills
 
 <div style = "display: inline_block"><br/>
-<img align = "center" alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align = "center" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align = "center" alt="Booststrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align = "center" alt="DotNet" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align = "center" alt="CSharp" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
