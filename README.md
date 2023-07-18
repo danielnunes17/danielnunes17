@@ -4,9 +4,10 @@ Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco d
 
 Depois de dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
-Tenho 1 ano de experiência como desenvolvedor back-end em .NET/C#, nesse momento me especializando em GoLang sempre buscando crescer e gerar valor para melhorar a vida das pessoas.
+Tenho 1 ano de experiência como desenvolvedor back-end em .NET/C#, em minha equipe atual trabalho com Nest.Js, Type Script e NodeJS.
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnunes17/)
