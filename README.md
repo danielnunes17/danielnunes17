@@ -22,7 +22,8 @@ Tenho 1 ano de experiência como desenvolvedor back-end em .NET/C#, em minha equ
 <img align = "center" alt="CSharp" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align = "center" alt="Go" src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img align = "center" alt="Azure" src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    
+<img align = "center" alt="NodeJs" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align = "center" alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnunes17&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
