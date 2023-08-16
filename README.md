@@ -1,10 +1,12 @@
 ### Olá! Eu sou Daniel Nunes
  
-Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco de São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense apaixonado e especialista em criar stickers para WhatsApp.
+Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco de São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense, musico e produtor musical.
 
 Depois de dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
 
-Tenho 1 ano de experiência como desenvolvedor back-end em .NET/C#, em minha equipe atual trabalho com Nest.Js, Type Script e NodeJS.
+Desenvolvedor back end no time de Growth na EstrelaBet.
+
+NodeJS | Nest.Js | TypeScript
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
 
