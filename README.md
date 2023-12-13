@@ -2,9 +2,11 @@
  
 Sou paulistano, porém mineiro de coração, mas também trago comigo um pouco de São Paulo, Rio de Janeiro, Brasília, Belo Horizonte e Lisboa. Cruzeirense, musico e produtor musical.
 
-Depois de dedicar os últimos 15 anos na produção musical e audiovisual, decidi fazer uma mudança de carreira aos 38 anos, quando percebi que estava estagnado. Atualmente, estou cursando o 6º período de bacharelado em Sistemas de Informação.
+Após ter dedicado 15 anos na produção musical e audiovisual, decidi mudar de carreira aos 38.
 
-Desenvolvedor back end no time de Growth na EstrelaBet.
+Cursando o 7º período de bacharelado em Sistemas de Informação.
+
+Desenvolvedor back end no time de SportsBook na EstrelaBet.
 
 NodeJS | Nest.Js | TypeScript
 
@@ -36,43 +38,3 @@ NodeJS | Nest.Js | TypeScript
 <img align = "center" alt="Visual Studio" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align = "center" alt="VSCode" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
-### Trilhas percorridas até o momento 
-
-### Bootcamps:
-Fullstack Developer Tech Academy - HTML5, CSS, JavaScript, NodeJs e SLQ (150 horas) - .StartSe 
-
-GFT Start #4 .NET (58 horas) - Digital Innovation One
-
-LocalizaLabs .NET Developer #2 (78 horas) - Digital Innovation One
-
-Dio Campus Expert (30 horas) - Digital Innovation One
-
-### Trilha ALura C#/.NET 
-HTTP: ENTENDENDO A WEB
-
-API REST COM .NET 5: OPERAÇÕES ESSENCIAIS COM VERBOS HTTP
-
-BIBLIOTECAS DLLS, DOCUMENTAÇÃO E USANDO O NUGET
-
-ENTENDENDO EXCEÇÕES
-
-ENTENDENDO HERANÇA E INTERFACE
-
-INTRODUÇÃO À ORIENTAÇÃO A OBJETOS
-
-TESTES EM .NET: TESTANDO SOFTWARE
-
-SQL Server: SQL com Microsoft SQL Server
-
-### Udemy
-C# Curso Completo: Do Básico ao Avançado 
-
-Git Curso Compelto: Do Básico ao Avançado 
-
-Go do zero a Aplicação Completa
-
-
-
-
-
