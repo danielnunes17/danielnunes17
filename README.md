@@ -6,9 +6,9 @@ Após ter dedicado 15 anos na produção musical e audiovisual, decidi mudar de 
 
 Cursando o 7º período de bacharelado em Sistemas de Informação.
 
-Desenvolvedor back end no time de SportsBook na EstrelaBet.
+Desenvolvedor back end no time de SportsBook e Cassino na EstrelaBet.
 
-NodeJS | Nest.Js | TypeScript
+Node.Js | Nest.Js | TypeScript
 
 "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade" - Roy Smith
 
